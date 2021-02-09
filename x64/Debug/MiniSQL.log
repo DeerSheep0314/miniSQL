@@ -1,0 +1,17 @@
+﻿  MiniSQL.cpp
+C:\Users\YLX1110\Desktop\minisql最最新\util.h(57,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\util.h(58,36): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\util.h(118,37): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\util.h(119,50): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\MiniSQL.h(291,43): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\MiniSQL.h(292,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\MiniSQL.h(492,11): warning C4101: “typ”: 未引用的局部变量
+C:\Users\YLX1110\Desktop\minisql最最新\MiniSQL.h(592,11): warning C4101: “d”: 未引用的局部变量
+C:\Users\YLX1110\Desktop\minisql最最新\Interpreter.h(100,42): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\Interpreter.h(101,39): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\Interpreter.h(123,44): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\Interpreter.h(124,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\YLX1110\Desktop\minisql最最新\MiniSQL.h(500): warning C4715: “reverse_type”: 不是所有的控件路径都返回值
+C:\Users\YLX1110\Desktop\minisql最最新\API.h(304): warning C4715: “sql_execfile::execute”: 不是所有的控件路径都返回值
+C:\Users\YLX1110\Desktop\minisql最最新\MiniSQL.cpp(109): warning C4715: “main_usr_handle”: 不是所有的控件路径都返回值
+  MiniSQL.vcxproj -> C:\Users\YLX1110\Desktop\minisql最最新\x64\Debug\MiniSQL.exe

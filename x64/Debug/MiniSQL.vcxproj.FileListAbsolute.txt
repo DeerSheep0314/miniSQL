@@ -1,0 +1,2 @@
+C:\Users\YLX1110\Desktop\minisql最最新\x64\Debug\MiniSQL.exe
+C:\Users\YLX1110\Desktop\minisql最最新\x64\Debug\MiniSQL.pdb
